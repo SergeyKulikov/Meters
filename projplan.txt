@@ -1,0 +1,27 @@
+﻿горячая (опц)
+холодная (опц)
+газ (настраиваемая)
+свет
+
+meter_type
+_id
+name
+positions
+icon
+
+
+locate (скрыт)
+_id
+name
+
+
+meters
+_id
+meter_type_id
+locate_id
+
+timeidx
+
+
+
+
